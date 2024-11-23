@@ -39,7 +39,7 @@
 .set CONTROLLER_COUNT, 4
 .set PAD_REPORT_SIZE, 0xC
 .set MIN_DELAY_FRAMES, 1
-.set MAX_DELAY_FRAMES, 15
+.set MAX_DELAY_FRAMES, 24
 .set ROLLBACK_MAX_FRAME_COUNT, 7
 .set LGL_LIMIT, 45 # Ledge grabs that exceed this number will result in a loss on timeout
 
